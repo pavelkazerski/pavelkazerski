@@ -3,6 +3,7 @@
 ## I'm a HTML/CSS developer
 
 ## Languages and tools which i work
+
 ![HTML](https://img.shields.io/badge/-HTML-F2F1EC?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-F2F1EC?style=for-the-badge&logo=css)
 ![SCSS](https://img.shields.io/badge/-SCSS-F2F1EC?style=for-the-badge&logo=sass)
@@ -11,9 +12,11 @@
 ![SWIPER](https://img.shields.io/badge/-SWIPER-F2F1EC?style=for-the-badge&logo=swiper&logoColor=6332F6)
 
 ## Portfolio
-* **[Beauty&Young](pavelkazerski.github.io/beauty-and-young/)**
+
+* [**Beauty&Young**](https://pavelkazerski.github.io/beauty-and-young/)
 
 ## Contact me
+
 [![gmail](https://img.shields.io/badge/-gmail-F2F1EC?style=for-the-badge&logo=gmail)](mailto:pavel.kazerskii@mgail.com)
 [![telegram](https://img.shields.io/badge/-telegram-F2F1EC?style=for-the-badge&logo=telegram)](https://t.me/P_kazerski)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-F2F1EC?style=for-the-badge&logo=Vk&logoColor=0077FF)](https://vk.com/id17763104)
