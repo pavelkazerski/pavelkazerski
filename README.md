@@ -11,7 +11,7 @@
 ![SWIPER](https://img.shields.io/badge/-SWIPER-F2F1EC?style=for-the-badge&logo=swiper&logoColor=6332F6)
 
 ## Portfolio
-* [Beauty&Young](pavelkazerski.github.io/beauty-and-young/)
+* **[Beauty&Young](pavelkazerski.github.io/beauty-and-young/)**
 
 ## Contact me
 [![gmail](https://img.shields.io/badge/-gmail-F2F1EC?style=for-the-badge&logo=gmail)](mailto:pavel.kazerskii@mgail.com)
