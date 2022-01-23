@@ -1,4 +1,4 @@
-![Header](https://github.com/pavelkazerski/pavelkazerski/blob/main/assets/Pavel%20Kazerski.png)
+![Header](https://github.com/pavelkazerski/pavelkazerski/blob/main/assets/banner_github.png)
 
 ## I'm a HTML/CSS developer
 
