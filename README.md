@@ -17,7 +17,7 @@
 * [**Plant's Land**](https://pavelkazerski.github.io/plants-land/)
 * [**Radio Killer's**](https://pavelkazerski.github.io/radio-killers/)
 * [**Art Story**](https://pavelkazerski.github.io/art-story/)
-* [**Lenalin Textile**](https://pavelkazerski/lenalintextile/)
+* [**Lenalin Textile**](https://pavelkazerski.github.io/lenalintextile/)
 
 ## Contact me
 
